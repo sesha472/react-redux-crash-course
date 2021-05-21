@@ -1,0 +1,24 @@
+
+
+.shop{
+    width: 50%;
+    margin:20px;
+    padding: 20px;
+    box-shadow: 1px 20px 60px;  
+    background-color: rgb(110, 211, 211);
+}
+
+button{
+    padding: 5px 30px;
+    outline: none;
+    background-color: rgb(114, 179, 49);
+    border: none;
+    border-radius: 5px;
+
+}
+.market{
+    background-color: rgb(165, 192, 183);
+    display: flex;
+    justify-content: center;
+    
+}
